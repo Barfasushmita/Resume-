@@ -10,7 +10,7 @@ Education
 Certifications & Achievements
 Projects 
 
-#Contact Information -----
+#Contact Information 
 
 You can reach me at barfasushmita@gmail.com or connect with https://www.linkedin.com/in/sushmitabarfa 
 Feel free to download and share this resume.
