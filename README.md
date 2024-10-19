@@ -4,11 +4,10 @@
 This document contains my professional resume outlining my skills, education, and key achievements.
 It is organized into the following sections:
 Personal Information
-Professional Summary
 Skills
 Education
+About
 Certifications & Achievements
-Projects 
 
 #Contact Information 
 
